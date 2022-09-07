@@ -1,3 +1,3 @@
 # Cp-devops
-# Referencias :
+## Referências :
 https://github.com/profjoaomenk/spring-crud-oracle
